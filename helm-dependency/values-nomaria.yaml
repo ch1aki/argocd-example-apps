@@ -2,7 +2,7 @@ mariadb:
   enabled: false
 
 wordpress:
-  wordpressPassword: foo
+  wordpressPassword: bar
   mariadb:
     enabled: false
   externalDatabase:
